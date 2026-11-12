@@ -48,7 +48,7 @@ Ce dépôt est un **modèle** (template). Chaque groupe en crée sa propre copie
 **Une seule personne du groupe :**
 
 1. En haut de cette page, cliquez sur **Use this template**, puis **Create a new repository**.
-2. Choisissez votre compte comme propriétaire, donnez un nom (par exemple `tp-cloud-groupe-3`) et cochez **Private**.
+2. Choisissez votre compte comme propriétaire, donnez un nom (par exemple `tp-cloud-groupe-3`) et cochez **Public** : GitHub Actions et le stockage des images y sont gratuits et sans limite.
 3. Dans le nouveau dépôt : **Settings › Collaborators › Add people**, et ajoutez les autres membres du groupe.
 
 **Puis chaque membre, dans un terminal :**
@@ -58,7 +58,7 @@ git clone https://github.com/VOTRE-COMPTE/VOTRE-DEPOT.git
 cd VOTRE-DEPOT
 ```
 
-> **Règle d'or :** aucun mot de passe ni jeton dans le dépôt, même privé.
+> **Règle d'or :** le dépôt est public : aucun mot de passe ni jeton dedans, et pas de code de votre entreprise.
 
 ## 3. Comprendre l'application
 
